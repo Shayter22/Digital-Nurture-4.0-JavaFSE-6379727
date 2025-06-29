@@ -1,0 +1,9 @@
+11:39:36.656 [main] INFO  c.e.LoggingDemo.AppenderExample - This message should go to console and file!
+11:39:36.658 [main] DEBUG c.e.LoggingDemo.AppenderExample - This is a debug message.
+11:39:36.658 [main] WARN  c.e.LoggingDemo.AppenderExample - This is a warning with appenders.
+12:04:29.325 [main] ERROR c.example.LoggingDemo.LoggingExample - This is an error message
+12:04:29.327 [main] WARN  c.example.LoggingDemo.LoggingExample - This is a warning message
+12:05:36.091 [main] INFO  c.e.LoggingDemo.ParameterizedLogging - User Alice attempted login 5 times
+12:06:45.538 [main] INFO  c.e.LoggingDemo.AppenderExample - This message should go to console and file!
+12:06:45.541 [main] DEBUG c.e.LoggingDemo.AppenderExample - This is a debug message.
+12:06:45.548 [main] WARN  c.e.LoggingDemo.AppenderExample - This is a warning with appenders.
