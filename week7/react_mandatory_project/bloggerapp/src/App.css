@@ -1,0 +1,55 @@
+.App {
+  font-family: sans-serif;
+  padding: 20px;
+}
+
+.controls {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.controls button {
+  margin: 0 10px;
+  padding: 10px 15px;
+  font-size: 1em;
+}
+
+.container {
+  display: flex;
+  justify-content: space-around;
+  align-items: flex-start;
+}
+
+.details-card {
+  width: 30%;
+  padding: 0 20px;
+  border-left: 2px solid green;
+}
+
+.details-card:first-child {
+  border-left: none;
+  padding-left: 0;
+}
+
+.details-card:last-child {
+  padding-right: 0;
+}
+
+.item {
+  margin-bottom: 20px;
+}
+
+h2 {
+  font-size: 1.8em;
+  margin-bottom: 20px;
+}
+
+h3 {
+  margin: 0 0 5px 0;
+}
+
+h4 {
+  margin: 0;
+  font-weight: normal;
+  color: #555;
+}
