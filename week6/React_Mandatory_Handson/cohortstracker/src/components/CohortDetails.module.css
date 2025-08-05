@@ -1,0 +1,16 @@
+/* Defines the style for the main container of a cohort card */
+.box {
+    width: 300px; /* [cite: 26] */
+    display: inline-block; /* [cite: 27] */
+    vertical-align: top; /* Ensures cards align neatly at the top */
+    margin: 10px; /* [cite: 28] */
+    padding: 10px 20px; /* [cite: 29, 30] */
+    border: 1px solid black; /* [cite: 31] */
+    border-radius: 10px; /* [cite: 32] */
+    text-align: left;
+  }
+  
+  /* Defines the style for the <dt> element within the .box container */
+  .box dt {
+    font-weight: 500; /* [cite: 33] */
+  }

@@ -1,0 +1,29 @@
+.student-card {
+    border: 2px solid #0056b3; /* A stronger, darker blue for the border */
+    border-radius: 10px;
+    padding: 20px;
+    margin: 20px auto;
+    max-width: 500px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    text-align: left;
+    background-color: #ffffff; /* Using a pure white background for max contrast */
+  }
+  
+  .student-card h2 {
+    color: #002366; /* Dark navy blue for high-contrast heading */
+    text-align: center;
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 10px;
+  }
+  
+  .student-card p {
+      font-size: 1.1em;
+      line-height: 1.6;
+      color: #212121; /* Using a very dark grey (almost black) for main text */
+  }
+  
+  .score {
+    font-weight: bold;
+    color: #006400; /* Using a darker green for the score to make it pop */
+    font-size: 1.2em;
+  }
